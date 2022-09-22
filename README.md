@@ -8,7 +8,7 @@
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=SemihKokcu.SemihKokcu)
-[![Github](https://img.shields.io/github/followers/SemihKokcu?label=Follow&style=social)](https://github.com/Aditya664)
+[![Github](https://img.shields.io/github/followers/SemihKokcu?label=Follow&style=social)](https://github.com/SemihKokcu)
 
 <div size='20px'> Hi! My name is Semih. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
