@@ -39,7 +39,7 @@
 <br>
   <br>
   
-
+[![Github](https://img.shields.io/github/followers/SemihKokcu?label=Follow&style=social)](https://github.com/SemihKokcu)
 
 | ![Semih's github stats](https://github-readme-stats.vercel.app/api?username=SemihKokcu&show_icons=true&theme=tokyonight) | ![Semih GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SemihKokcu&theme=tokyonight) |
 | --- | --- |
