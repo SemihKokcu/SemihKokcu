@@ -39,7 +39,7 @@
 <br>
   <br>
   
-
+[![Semih's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SemihKokcu&theme=tokyonight)](https://git.io/praveenscience)
 | ![Semih's github stats](https://github-readme-stats.vercel.app/api?username=SemihKokcu&show_icons=true&theme=tokyonight) | ![Semih GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SemihKokcu&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SemihKokcu&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SemihKokcu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
