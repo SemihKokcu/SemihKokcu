@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on  microservices project with Java
   
-- 🌱 I’m currently learning microservices
+- 🌱 I’m currently learning go lang
   
 - 💬 Ask me about C#, JavaScript, React, Java 
   
