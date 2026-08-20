@@ -83,14 +83,6 @@ Cross-platform services for a fleet of **60,000+ edge devices** across Tizen, We
 - Multi-screen synchronized playback architecture (shared-clock epoch, deterministic timeline resolution)
 - Native OS API integration for hardware resource optimization
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SemihKokcu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemihKokcu&theme=tokyonight&layout=compact" height="165"/>
-</p>
 
 ---
 
