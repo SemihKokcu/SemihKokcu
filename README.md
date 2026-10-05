@@ -71,7 +71,7 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 `Git` · `Kibana` · `Jira` · `Shell Scripting` · `Agile / Scrum`
 
 **Streaming**
-`HLS` · `MPEG-TS` · `AVPlay`
+`HLS` · `MPEG-TS`
 
 ---
 
@@ -92,7 +92,6 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 ### 🖥️ Digital Signage Platform — Octopus Digital Signage (via Starbucks)
 Cross-platform services for a fleet of **60,000+ edge devices** across WebOS, Tizen, Windows, and Linux.
 - Real-time device state management and high-availability sync over **MQTT**
-- Low-latency, synchronized multi-screen video playback (AVPlay API) for Samsung Tizen displays — shared-clock epoch, deterministic timeline resolution
 - Native OS API integration to optimize CPU and RAM on edge devices
 - Backend logic and data pipelines for sensor-based smart hardware projects, including "Lift & Learn" and video analytics
 
