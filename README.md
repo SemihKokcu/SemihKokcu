@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Semih Kökçü <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
-<h3 align="center">Backend Developer — distributed systems, real-time infrastructure, microservices</h3>
+<h3 align="center">Full Stack Engineer — backend-focused: distributed systems, real-time infrastructure, microservices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/semihkkc/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -11,12 +11,12 @@
 
 ## About Me
 
-I'm a backend developer based in Istanbul. I build scalable, microservices-based infrastructure for high-traffic, multi-device environments. At Octopus Digital Signage I work on cross-platform services running across **60,000+ edge devices** (WebOS, Tizen, Windows, Linux): real-time communication over MQTT, high-availability device synchronization, and low-latency messaging.
+I'm a full stack engineer based in Istanbul with a strong backend focus. I build scalable, microservices-based infrastructure for high-traffic, multi-device environments. At Octopus Digital Signage I work on cross-platform services running across **60,000+ edge devices** (WebOS, Tizen, Windows, Linux): real-time communication over MQTT, high-availability device synchronization, and low-latency messaging.
 
 Outside of my day job I build independent SaaS and mobile products end to end, from schema design to deployment, which keeps me working across the full stack.
 
-- 🏗️ **Currently:** Middleware Backend Software Developer @ Octopus Digital Signage (via Starbucks), since 04/2024
-- 🏦 **Previously:** Backend Developer (long-term intern) @ Paycell (Turkcell Payment), building secure RESTful APIs and card-management microservices with Java and Spring
+- 🏗️ **Currently:** Middleware FullStack Software Engineer @ Octopus Digital Signage (via Starbucks), since 04/2024
+- 🏦 **Previously:** Junior Backend Developer (long-term intern) @ Paycell (Turkcell Payment), building secure RESTful APIs and card-management microservices with Java and Spring
 - 🧠 **Also exploring:** AI-powered product features using the Anthropic API — memory-driven UX, content pipelines, and automation tooling
 - 🎓 B.Sc. Computer Engineering, Zonguldak Bülent Ecevit University (2019–2023)
 
@@ -32,6 +32,7 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 ![Java](https://img.shields.io/badge/Java%20%2F%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -67,7 +68,10 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 `Microservices` · `Clean Architecture` · `CQRS` · `Domain-Driven Design (DDD)` · `Vertical Slice Architecture` · `SOLID` · `OWASP`
 
 **Tools & Methodologies**
-`Git` · `Kibana` · `Jira` · `Agile / Scrum`
+`Git` · `Kibana` · `Jira` · `Shell Scripting` · `Agile / Scrum`
+
+**Streaming**
+`HLS` · `MPEG-TS` · `AVPlay`
 
 ---
 
@@ -75,9 +79,9 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 
 | Period | Role | Company |
 |---|---|---|
-| 04/2024 – Present | Middleware Backend Software Developer | Octopus Digital Signage (via Starbucks) |
-| 08/2023 – 04/2024 | Backend Developer (Long-term Intern) | Paycell · Turkcell Payment |
-| 03/2023 – 07/2023 | Junior Backend Developer | Octopus Digital Signage |
+| 04/2024 – Present | Middleware FullStack Software Engineer | Octopus Digital Signage (via Starbucks) |
+| 08/2023 – 04/2024 | Junior Backend Developer (Long-term Intern) | Paycell · Turkcell Payment |
+| 03/2023 – 07/2023 | Junior FullStack Engineer | Octopus Digital Signage |
 | 08/2022 – 09/2022 | System Administration Intern | Turkcell (TV+) |
 | 06/2022 – 07/2022 | Computer Engineer Intern | Octopus Digital Signage |
 
@@ -88,7 +92,7 @@ Outside of my day job I build independent SaaS and mobile products end to end, f
 ### 🖥️ Digital Signage Platform — Octopus Digital Signage (via Starbucks)
 Cross-platform services for a fleet of **60,000+ edge devices** across WebOS, Tizen, Windows, and Linux.
 - Real-time device state management and high-availability sync over **MQTT**
-- Multi-screen synchronized playback architecture (shared-clock epoch, deterministic timeline resolution)
+- Low-latency, synchronized multi-screen video playback (AVPlay API) for Samsung Tizen displays — shared-clock epoch, deterministic timeline resolution
 - Native OS API integration to optimize CPU and RAM on edge devices
 - Backend logic and data pipelines for sensor-based smart hardware projects, including "Lift & Learn" and video analytics
 
