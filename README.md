@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Semih Kökçü <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"></h1>
-<h3 align="center">Full Stack Developer — Backend-heavy, distributed systems, real-time infrastructure</h3>
+<h3 align="center">Backend Developer — distributed systems, real-time infrastructure, microservices</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/semihkkc/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://semihkokcu.com"><img src="https://img.shields.io/badge/Portfolio-semihkokcu.com-black?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://semihkokcu.com"><img src="https://img.shields.io/badge/Portfolio-semihkokcu.com-black?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:semihkkc@outlook.com"><img src="https://img.shields.io/badge/Email-semihkkc%40outlook.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -11,12 +11,14 @@
 
 ## About Me
 
-I'm a full stack developer based in Istanbul, currently building the backend and cross-platform client infrastructure for a Samsung Tizen digital signage platform running across **60,000+ edge devices** (Tizen, WebOS, Windows, Linux). I design real-time communication layers (MQTT), device synchronization systems, and scalable backend services — and I've shipped several independent SaaS products end-to-end, from database schema to production deployment.
+I'm a backend developer based in Istanbul. I build scalable, microservices-based infrastructure for high-traffic, multi-device environments. At Octopus Digital Signage I work on cross-platform services running across **60,000+ edge devices** (WebOS, Tizen, Windows, Linux): real-time communication over MQTT, high-availability device synchronization, and low-latency messaging.
 
-- 🏗️ **Currently:** Full Stack Developer @ Octopus Digital Signage — cross-platform services, real-time MQTT sync, and multi-screen playback architecture for smart TV fleets
-- 🚀 **Founder & builder:** Bites UP (SaaS loyalty platform) and NFC-PIE (digital business card platform) — both live in production, built solo end-to-end
+Outside of my day job I build independent SaaS and mobile products end to end, from schema design to deployment, which keeps me working across the full stack.
+
+- 🏗️ **Currently:** Middleware Backend Software Developer @ Octopus Digital Signage (via Starbucks), since 04/2024
+- 🏦 **Previously:** Backend Developer (long-term intern) @ Paycell (Turkcell Payment), building secure RESTful APIs and card-management microservices with Java and Spring
 - 🧠 **Also exploring:** AI-powered product features using the Anthropic API — memory-driven UX, content pipelines, and automation tooling
-- 🎓 Computer Engineering, Zonguldak Bülent Ecevit University (2019–2023)
+- 🎓 B.Sc. Computer Engineering, Zonguldak Bülent Ecevit University (2019–2023)
 
 ---
 
@@ -28,6 +30,7 @@ I'm a full stack developer based in Istanbul, currently building the backend and
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%20%2F%20Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend & Mobile**
@@ -42,6 +45,7 @@ I'm a full stack developer based in Istanbul, currently building the backend and
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps, CI/CD & Cloud**
@@ -50,6 +54,7 @@ I'm a full stack developer based in Istanbul, currently building the backend and
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20(SQS%2FSES)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 **Platforms & OS**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,28 +66,43 @@ I'm a full stack developer based in Istanbul, currently building the backend and
 **Architecture & Principles**
 `Microservices` · `Clean Architecture` · `CQRS` · `Domain-Driven Design (DDD)` · `Vertical Slice Architecture` · `SOLID` · `OWASP`
 
+**Tools & Methodologies**
+`Git` · `Kibana` · `Jira` · `Agile / Scrum`
+
 ---
 
-## Featured Projects
+## Experience
 
-### 🍽️ [Bites UP](https://bitesup.com) — Founder & Lead Engineer
-End-to-end SaaS loyalty ecosystem for restaurants: user mobile app, staff app, and business web dashboard.
-- Core services in **Node.js + Bun**, optimized with **Redis** for millisecond-latency responses
-- Event-driven messaging with **AWS SQS/SES** for notifications and background jobs
-- Secure payments via **Iyzico**, secrets managed with **Doppler**, production secured with **Cloudflare**
+| Period | Role | Company |
+|---|---|---|
+| 04/2024 – Present | Middleware Backend Software Developer | Octopus Digital Signage (via Starbucks) |
+| 08/2023 – 04/2024 | Backend Developer (Long-term Intern) | Paycell · Turkcell Payment |
+| 03/2023 – 07/2023 | Junior Backend Developer | Octopus Digital Signage |
+| 08/2022 – 09/2022 | System Administration Intern | Turkcell (TV+) |
+| 06/2022 – 07/2022 | Computer Engineer Intern | Octopus Digital Signage |
 
-### 💳 [NFC-PIE](https://nfcpie.com) — Founder & Full Stack Developer
-Digital business card & NFC platform bridging physical NFC hardware with dynamic web profiles.
-- Backend and RESTful APIs in **Node.js** for real-time profile sync
-- Modular, reusable dashboard built with **React + Ant Design**
-- Actively maintained in production
+---
 
-### 🖥️ Tizen Digital Signage Platform — Octopus Digital Signage (via Starbucks)
-Cross-platform services for a fleet of **60,000+ edge devices** across Tizen, WebOS, Windows, and Linux.
-- Real-time device state and high-availability sync over **MQTT**
+## Featured Work
+
+### 🖥️ Digital Signage Platform — Octopus Digital Signage (via Starbucks)
+Cross-platform services for a fleet of **60,000+ edge devices** across WebOS, Tizen, Windows, and Linux.
+- Real-time device state management and high-availability sync over **MQTT**
 - Multi-screen synchronized playback architecture (shared-clock epoch, deterministic timeline resolution)
-- Native OS API integration for hardware resource optimization
+- Native OS API integration to optimize CPU and RAM on edge devices
+- Backend logic and data pipelines for sensor-based smart hardware projects, including "Lift & Learn" and video analytics
 
+### 🛒 [eshop-microservices](https://github.com/SemihKokcu/eshop-microservices) — public repository
+E-commerce backend built with Java and Spring on a microservices architecture: API Gateway, Eureka service discovery, and an identity service with JWT and refresh tokens, plus centralized logging and error handling.
+
+---
+
+## Publications & Certificates
+
+- 📄 **IconTech 2023 (Antalya)** — paper on Complex Event Processing (CEP) for financial systems · [DergiPark](https://dergipark.org.tr/en/pub/epstem/article/1408849)
+- 🚗 **Teknofest Robotaxi Autonomous Passenger Vehicle Competition** — participation certificates (2021, 2023)
+
+**Languages:** Turkish (native) · English (B2)
 
 ---
 
